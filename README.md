@@ -1,11 +1,11 @@
 [onetofour.com] is a web introduction to rhythm for those unfamiliar western rhythm concepts, and a tool to practice fundamentals
 
 # Table of content
-- i. TABLE OF CONTENT
-- ii. DESIGN RULES
-- iii. LOGO CONCEPT
-- iv. FEATURES
-- v. FEATURED CONCEPTS
+- TABLE OF CONTENT
+- DESIGN RULES
+- LOGO CONCEPT
+- FEATURES
+- FEATURED CONCEPTS
 ## DESIGN RULES/PHILOSOPHY
 ## 1. SIMPLISTIC: no paragraphs over 3 sentences and/or 2 lines
 ## 2. STRAIGHTFORWARD: deliver in a way a 5 year old would understand
